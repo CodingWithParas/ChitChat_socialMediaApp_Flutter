@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50291804363",
+    "project_id": "chatapp-d9912",
+    "storage_bucket": "chatapp-d9912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50291804363:android:240876f3bdad5de7b4b34e",
+        "android_client_info": {
+          "package_name": "com.example.chit_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmvoDiJ1IEIbdCbV4gSxcGERsCvseyRdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
