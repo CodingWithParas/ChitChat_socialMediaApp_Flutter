@@ -68,6 +68,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For queries, reach out to: **parasdev221@gmail.com**
 
 # SnapShots
-<img src ="WhatsApp Image 2025-02-15 at 9 18 03 PM](https://github.com/user-attachments/assets/535d983e-5ab7-4afa-a4e8-50ecc518f485) style="width:300px;">
-![WhatsApp Image 2025-02-15 at 9 18 02 PM](https://github.com/user-attachments/assets/806b1a11-1899-4764-9e02-b065910de25d)
+<img src = "![WhatsApp Image 2025-02-15 at 9 18 02 PM](https://github.com/user-attachments/assets/806b1a11-1899-4764-9e02-b065910de25d) style="width:300px;">
+
 ![WhatsApp Image 2025-02-15 at 9 18 02 PM (1)](https://github.com/user-attachments/assets/e8d96a42-2948-419a-a1cc-f41566437674)
